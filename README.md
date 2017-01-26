@@ -1,1 +1,1 @@
-# webresume-demo
+This project was inspired by the need for a quick 3-hr tech-related activity to be done by beginners/inexperienced participants of the University's Tech Friday event. The purpose of this demo is to inspire non-technical individuals to create their own web resumes with the help of Start BootStrap Themes from https://startbootstrap.com.
